@@ -1,0 +1,7 @@
+*.pkl
+*.json
+holdings_data
+__pycache__/
+*.pyc
+.pydevproject
+.project
